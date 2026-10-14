@@ -14,7 +14,7 @@ Data analyst and analytics engineer based in Dublin, Ireland. I build analytics 
 **[Heart disease risk model](https://github.com/ApurvDubey/heart-disease-risk)** is a rebuild of an M.Sc. classifier with the evaluation done properly. SMOTE applied before the train/test split inflated PR-AUC from 0.13 to 0.86 for the same model; this repo splits first, keeps the real 8.6% class balance, and reports recall and precision on an untouched test set.
 
 ## Background
-Four years in data analytics and product engineering analytics (semiconductor manufacturing and commercial analytics), plus an M.Sc. in Data Analytics from the National College of Ireland. I replaced a commercial analytics tool with an in-house Spotfire and Databricks platform used by 150+ people worldwide, and migrated its data from SQL to Databricks for 60% faster processing.
+Four years in data analytics and product engineering analytics (semiconductor manufacturing and commercial analytics), plus an M.Sc. in Data Analytics from the National College of Ireland. I replaced a commercial analytics tool with an in-house Spotfire and Databricks platform used by 150+ Product Managers worldwide, and migrated its data from SQL to Databricks for 60% faster processing.
 
 ## Find me
 - Website: [apurvdubey.com](https://www.apurvdubey.com)
